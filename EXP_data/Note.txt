@@ -1,0 +1,2 @@
+The experimental data in this folder is extracted from the following paper:
+S. Pant, J. Laliberte, M. Martinez, B. Rocha, Derivation and experimental validation of Lamb wave equations for an n-layered anisotropic composite laminate, Composite Structures 2014, 111:566–579.
